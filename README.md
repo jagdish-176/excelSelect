@@ -7,8 +7,8 @@ Simple jQuery plugin to give you excel like selection on &#39;table&#39; tag.<br
 <p>Usage :<br />
 ==========<br />
 include<br />
-&lt;link href=&quot;sparrow-table.plugin.css&quot; media=&quot;all&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;<br />
-&lt;script type=&quot;text/javascript&quot; src=&quot;sparrow-table.plugin.js&quot;&gt;&lt;/script&gt;<br />
+&lt;link href=&quot;excel-select.css&quot; media=&quot;all&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;<br />
+&lt;script type=&quot;text/javascript&quot; src=&quot;excel-select.js&quot;&gt;&lt;/script&gt;<br />
 in your html .<br />
 and get ready for ..<br />
 $(document).ready(function() {<br />
